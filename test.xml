@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<planets>
+    <planet>
+        <name>Earth</name>
+        <weight>12000</weight>
+        <moon>
+            <name>Luna</name>
+            <weight>7000</weight>
+        </moon>
+    </planet>
+    <planet>
+        <name>Mars</name>
+        <weight>10000</weight>
+        <moon>
+            <name>Orphei</name>
+            <weight>700</weight>
+        </moon>
+        <moon>
+            <name>Lukas</name>
+            <weight>1000</weight>
+        </moon>
+    </planet>
+    <planet>
+        <name>Saturn</name>
+        <weight>340000</weight>
+    </planet>
+</planets>
